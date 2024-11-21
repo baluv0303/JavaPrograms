@@ -15,7 +15,6 @@ public class targetValueInArray {
         } else {
             System.out.println("Target not found");
         }
-
 	}
 	
 	public static int findTargetValue(int[] arr, int tar) {
@@ -38,5 +37,4 @@ public class targetValueInArray {
 		}
 		 return -1;  
 	}
-
 }
